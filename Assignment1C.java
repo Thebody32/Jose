@@ -1,3 +1,12 @@
+/*
+Class: CSE 1321L
+Section:
+Term: Fall 2023
+Instructor: Milo Wilson
+Name: Jose Lopez
+Lab#: 2
+ */
+
 import java.util.Scanner;
 
 public class Assignment1C {
